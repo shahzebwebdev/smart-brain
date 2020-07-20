@@ -1,0 +1,10 @@
+.Logo {
+	height: 7rem;
+}
+
+.Tilt {
+	background-image: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+	border-radius: .5rem;
+	margin-left: 3rem;
+	box-shadow: .5rem .5rem 1rem rgba(0, 0, 0, .3);
+}

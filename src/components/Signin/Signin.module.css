@@ -1,0 +1,92 @@
+.Main {
+	width: 50rem;
+	margin: auto;
+	padding: 5rem;
+	box-shadow: 1rem 1rem 2rem rgba(0, 0, 0, .5);
+	border: none;
+	border-radius: 1.5rem;
+
+}
+
+.FieldSet {
+	border: none;
+}
+
+.Legend {
+	font-size: 3rem;
+	font-weight: 500;
+}
+
+.Input {
+	background-color: transparent;
+	padding: 1rem;
+	width: 30rem;
+	border: 1px solid #000;
+	font-family: inherit;
+	font-size: 1.6rem;
+}
+
+.Input:focus {
+	background-color: #000;
+	color: #fff;
+}
+
+.Label {
+	font-size: 1.8rem;
+	margin-bottom: .8rem;
+	margin-top: 2rem;
+}
+
+.InputName, .InputPass {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: center;
+}
+
+.InputPass {
+	margin-bottom: 1.5rem;
+}
+
+.Submit {
+	padding: 1rem 1.5rem;
+	font-size: 1.8rem;
+	color: #000;
+	background-color: transparent;
+	border: 1px solid #000;
+	margin-top: 2rem;
+	transition: all .2s;
+	cursor: pointer;
+	margin-bottom: 2rem;
+}
+
+.Submit:hover {
+	background-color: #000;
+	color: #fff;
+}
+
+.Register {
+	font-size: 1.8rem;
+	text-decoration: none;
+	color: #000;
+	cursor: pointer;
+}
+
+.Register:hover {
+	color: #818181;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
